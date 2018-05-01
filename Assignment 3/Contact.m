@@ -1,4 +1,3 @@
-//Jesús Mata Camacho
 
 #import "Contact.h"
 

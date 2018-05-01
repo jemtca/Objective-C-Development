@@ -1,4 +1,3 @@
-//Jesús Mata Camacho
 
 #import <Foundation/Foundation.h>
 #import "Contact.h"
